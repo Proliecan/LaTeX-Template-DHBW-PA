@@ -1,5 +1,5 @@
 <div align="center">
-  ![10](https://link) <br><br>
+  <img src="https://github.com/Proliecan/LaTeX-Template-DHBW-PA/blob/main/Bilder/Repository_Header.png"> <br><br>
 </div>
 
 ---
